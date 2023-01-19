@@ -1,4 +1,4 @@
-[#chapter-1-foo-bar]
+[#chapter-2-foo-bar]
 = ACT II: Chapter 2 - Foo Bar
 
 Tell you story
